@@ -40,7 +40,7 @@ The application then provides feedback and can generate stronger alternatives.
 Clone repository:
 
 ```bash
-git clone 
+git clone  https://github.com/albratoss0/SecurePass.git
 ```
 
 Run:
